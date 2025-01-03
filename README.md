@@ -1,6 +1,7 @@
-# MemeChat 2.0  
+# Multi-Server Chat Application
+Aplikasi chat terdistribusi yang mendukung komunikasi real-time antar klien. Proyek ini dirancang menggunakan HTML dan mendukung arsitektur multi-server untuk efisiensi komunikasi.
 
-## Deskripsi  
+# MemeChat 2.0  
 MemeChat 2.0 adalah aplikasi sederhana berbasis web untuk mengobrol secara real-time. Aplikasi ini dibangun menggunakan HTML, CSS, JavaScript, dan Firebase untuk menyimpan data chat secara real-time.  
 
 ## Fitur  
