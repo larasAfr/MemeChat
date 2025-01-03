@@ -6,7 +6,7 @@ MemeChat 2.0 adalah aplikasi sederhana berbasis web untuk mengobrol secara real-
 ## Fitur  
 - Bergabung ke chat room dengan nama pengguna.  
 - Mengirim dan menerima pesan secara real-time.  
-- Tampilan responsif dan sederhana.  
+- Tampilan responsif dan sederhana. 
 - Logout kapan saja.  
 
 ## Instalasi  
