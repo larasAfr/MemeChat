@@ -1,4 +1,4 @@
- # MemeChat 2.0  
+# MemeChat 2.0  
 
 ## Deskripsi  
 MemeChat 2.0 adalah aplikasi sederhana berbasis web untuk mengobrol secara real-time. Aplikasi ini dibangun menggunakan HTML, CSS, JavaScript, dan Firebase untuk menyimpan data chat secara real-time.  
